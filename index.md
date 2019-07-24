@@ -1,3 +1,11 @@
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="/me.jpg" width="25%">    
+    </td>
+  </tr>
+</table>
+
 # 个人信息 
 
 ### 姓名：Alexander 
